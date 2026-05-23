@@ -1,4 +1,4 @@
-# 1. Projeto de Previsão de Séries Temporais com XGBoost
+# 1. Previsão de Séries Temporais com XGBoost
 
 <p align="justify">
 Este projeto apresenta uma abordagem de previsão de vendas utilizando modelos de séries temporais baseados em <b>XGBoost</b>. O objetivo principal é simular um ambiente de previsão comercial envolvendo múltiplos clientes e produtos, permitindo analisar como diferentes horizontes temporais influenciam a capacidade preditiva dos modelos.
